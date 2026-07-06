@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Odoevsky in the Future</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on Odoevsky in the Future</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+			<copyright>This material is public domain, except where a Creative Commons licence applies</copyright>
+		
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A new home for 4338</title>
+				<link>http://localhost:1313/posts/blog-post-1/</link>
+				<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/blog-post-1/</guid>
+				<description>&lt;h2 id=&#34;new-version-in-pdf-format&#34;&gt;new version in pdf format&lt;a class=&#34;anchor&#34; href=&#34;#new-version-in-pdf-format&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;This website used to be home to notes on teaching of English for Academic Purposes. Now I&amp;rsquo;ve decided to switch to my translation of 4338. I believe it&amp;rsquo;s an important and useful thing to keep online. I plan to add more commentaries on it in future.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1926&#34;&gt;1926&lt;a class=&#34;anchor&#34; href=&#34;#1926&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;This year marks the hundredth anniversary of the publication of 4338 (in approximately its full version) in the magazine &amp;ldquo;Ogonyok&amp;rdquo;. There is an English translation by Leland Fetzer in &amp;ldquo;&lt;em&gt;Pre-Revolutionary Russian Science Fiction: An Anthology&lt;/em&gt;&amp;rdquo; (Ann Arbor 1982), although I&amp;rsquo;m not sure how easy it would be to find it.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
