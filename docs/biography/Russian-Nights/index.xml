@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Odoevsky in the Future</title>
-		<link>http://localhost:1313/docs/biography/Russian-Nights/</link>
+		<link>https://johnkuti.github.io/docs/biography/Russian-Nights/</link>
 		<description>Recent content on Odoevsky in the Future</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,6 +12,6 @@
 			<copyright>This material is public domain, except where a Creative Commons licence applies</copyright>
 		
 		
-			<atom:link href="http://localhost:1313/docs/biography/Russian-Nights/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://johnkuti.github.io/docs/biography/Russian-Nights/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
