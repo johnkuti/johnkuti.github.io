@@ -12,8 +12,8 @@ const pages = [
     "/docs/",
     "/posts/",
     "/book.min.7dca40f168e2fd532b7b1937df678e5fcb9289577e924bd85f799138b6137fa6.css",
-  "/en.search-data.min.9bead1c1b6485ea7715905dd1fe6061212a94fddafd0e63ad4413ad1b171e17f.json",
-  "/en.search.min.7236829c6e501d30c4eeaae78a70859d70df966fe78f821ddfc7656547a6e537.js",
+  "/en.search-data.min.9cb415ab3bb1ccdb3f106f5046248ab522d72fe9ae1effd067bd553a0c77dc9f.json",
+  "/en.search.min.a7579096080da7326966761a3036ee2498474af571d891a17fea0f94a395e5fa.js",
   
 ];
 
